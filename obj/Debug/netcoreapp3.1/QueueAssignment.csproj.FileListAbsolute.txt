@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.exe
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.deps.json
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.runtimeconfig.json
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.runtimeconfig.dev.json
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.dll
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\bin\Debug\netcoreapp3.1\QueueAssignment.pdb
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.AssemblyInfo.cs
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.dll
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.pdb
+C:\Users\hp\source\repos\QueueAssignment\QueueAssignment\obj\Debug\netcoreapp3.1\QueueAssignment.genruntimeconfig.cache
